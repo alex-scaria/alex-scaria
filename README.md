@@ -9,6 +9,7 @@ Computer Science Postgraduate from IIITM-K, Trivandrum | Interested in Data Scie
 * 🌍  I'm based in Trivandrum
 * ✉️  You can contact me at [alex.scaria@outlook.com](mailto:alex.scaria@outlook.com)
 * 🧠  I'm learning Azure ML
+* 🤝  I'm open to collaborating on Computer Vision projects
 
 ### Skills
 
