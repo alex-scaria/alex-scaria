@@ -1,5 +1,5 @@
-Hi 👋 My name is Alex Scaria
-============================
+Hi 👋 I am Alex 
+================
 
 Machine Learning Engineer
 -------------------------
